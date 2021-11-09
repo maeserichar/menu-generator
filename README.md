@@ -1,6 +1,6 @@
 # menu-generator
 
-FIXME: description
+A generator for my food menu for the week
 
 ## Installation
 
